@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://javin1102:javin1102@cluster0-shard-00-00.zkc7a.mongodb.net:27017,cluster0-shard-00-01.zkc7a.mongodb.net:27017,cluster0-shard-00-02.zkc7a.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-7phacv-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "jwtSecret": "tokenissecret"
+}
